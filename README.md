@@ -50,6 +50,6 @@ Proposed:
 Manifest your intention first by a PR updating this `README.md` with your goal. If you desist of your goal, release it
 by a PR so other fellow can try it.
 
-| NIA | User name | Repo | Improvement | Score |
-|-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+| NIA    | User name       | Repo       | Improvement | Score |
+|--------|-----------------|------------|-------------|-------|
+| 776012 | Jaime Conchello | [report](https://github.com/jaimecb/lab6-microservices/blob/test/report.md) |             |       |
