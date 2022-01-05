@@ -9,7 +9,7 @@
   ```
 * Launching Account service:
   ```
-  ./gradlew :registration:bootRun
+  ./gradlew :accounts:bootRun
   ```
   ![](imgs/accounts.png)
 
